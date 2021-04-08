@@ -45,16 +45,20 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-  This project was developed as part of our university course "Databases and web techniques". In this project we fetched RSS feeds from different NewsFeeds websites and stored it in out REST API database.
+  This project was developed as part of our university course "Databases and web techniques". In this project we fetched RSS feeds from different NewsFeeds websites and stored it in out REST API database. These Rss feeds should not crash and all the latest updates should come first.
 
 
 ### Built With
 
 * [PHP](https://www.php.net/)
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [Javascript](https://www.javascript.com/)
 * [RSS NewsFeeds](https://blog.feedspot.com/world_news_rss_feeds/)
-
-
+* [Heroku](https://www.heroku.com/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Kotlin](https://kotlinlang.org/)
+* [Spring](https://spring.io/)
+* [Postman](https://www.postman.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -125,15 +129,15 @@ Project Link: [https://github.com/hikmatkhangithub/NewsFeed-databanken-project](
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/hikmatkhangithub/Coursera-Server-Side-Development-Final-Project?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/hikmatkhangithub/NewsFeed-databanken-project.svg?style=for-the-badge
 [contributors-url]:https://github.com/hikmatkhangithub/NewsFeed-databanken-project/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hikmatkhangithub/Coursera-Server-Side-Development-Final-Project.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/hikmatkhangithub/NewsFeed-databanken-project.svg?style=for-the-badge
 [forks-url]: https://github.com/hikmatkhangithub/NewsFeed-databanken-project/network/members
-[stars-shield]: https://img.shields.io/github/stars/hikmatkhangithub/Coursera-Server-Side-Development-Final-Project.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/hikmatkhangithub/NewsFeed-databanken-project.svg?style=for-the-badge
 [stars-url]: https://github.com/hikmatkhangithub/NewsFeed-databanken-project/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hikmatkhangithub/Coursera-Server-Side-Development-Final-Project.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/hikmatkhangithub/NewsFeed-databanken-project.svg?style=for-the-badge
 [issues-url]: https://github.com/hikmatkhangithub/NewsFeed-databanken-project/issues
-[license-shield]: https://img.shields.io/github/license/hikmatkhangithub/Coursera-Server-Side-Development-Final-Project.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/hikmatkhangithub/NewsFeed-databanken-project.svg?style=for-the-badge
 [license-url]: https://github.com/hikmatkhangithub/NewsFeed-databanken-project/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hikmat-khan-34b773177/
